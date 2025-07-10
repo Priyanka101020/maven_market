@@ -29,11 +29,12 @@ A comprehensive Power BI dashboard designed to provide actionable insights into 
 
 
 ### 👥 Customer Demographics
-![sale](https://github.com/user-attachments/assets/ff577379-9932-42ae-8df4-b838f4b640eb)
+![customers](https://github.com/user-attachments/assets/de9d125a-99ee-455e-818f-03118d899b4b)
+
 
 
 ### 📦 Product Performance
-![sale](https://github.com/user-attachments/assets/fad8e38b-1977-4b3a-a44b-7522f1b58fad)
+![product](https://github.com/user-attachments/assets/1d4896b9-00ed-42cb-b453-43474c2fa444)
 
 
 ### 🏬 Store Performance
