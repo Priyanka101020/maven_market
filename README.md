@@ -1,7 +1,5 @@
 # Maven Market – Power BI Dashboard
 
-# Maven Market – Power BI Dashboard
-
 A comprehensive Power BI dashboard designed to provide actionable insights into sales, customer demographics, product performance, and store operations for Maven Market.
 
 ---
